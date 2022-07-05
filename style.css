@@ -75,28 +75,15 @@ display: flex;
 
 
 }
-.part-1{
-    padding-left: 2%;
-    padding-right: 0px;
-    box-shadow: linear gradient gray;
- 
-border-radius: 50px;
-background-color: aquamarine;
 
-}
 .recipies-image1{
-  padding-top: 15px;
-height: 80%;
-width: 80%;
-
-
-}
-.parent{
     padding-top: 15px;
-    height: 80%;
-    width: 80%;
+  height: 80%;
+  width: 80%;  
 
 }
+
+
 .box-shadow{
     border-radius: 15px;
     margin-left: 5%;
@@ -118,4 +105,35 @@ width: 80%;
     .flexible-container{
 
         display: flex;
+    }
+    .Follower{
+        background-image: url(./images/shapes/7.png);
+        margin-top: 5%;
+display: flex;
+text-decoration:aqua;
+padding-left: 20%;
+padding-right: 20%;
+box-shadow: 10px 10px 20px gray;
+margin-left: 7%;
+margin-right: 7%;
+
+    }
+    .ninek{
+        text-align: center;
+
+padding-left: 5%;
+padding-right: 5%;
+
+
+    }
+    
+    .footer{
+margin-top: 3%;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        padding-left: 30%;
+        padding-right: 30%;
+        background-image:url(./images/shapes/Frame\ 58.jpg);
     }
