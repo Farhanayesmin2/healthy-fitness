@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+/* Food network Section*/
+h1{
+font-size: 50px;
+color: rgb(97, 94, 94);
+}
+#skip{
+    color: rgb(205, 158, 238);
+}
+.food-text{
+   
+    margin-top: 15px;
+    padding-left: 5%;
+    padding-top: 10%;
+text-align: justify;
+
+}
+.food-network{
+    display: flex;
+}
+.female-pic{ 
+    padding-right: 5%;
+height: 40%;
+    width: 60%;
+}
+.order-btn{
+border-style: none;
+text-decoration: none;
+background-image: linear-gradient(rgb(112, 116, 117), rgb(255, 98, 0));
+padding: 10px 40px;
+ border-radius: 5px;
+ font-weight: 700;
+ color: azure;
+ box-shadow:5px 10px gray ;
+}
